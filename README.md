@@ -1,4 +1,9 @@
 
+
+![Happy (6)](https://user-images.githubusercontent.com/96833570/173203968-14e3b347-9cf4-4588-b9f2-5a0fb6b98378.png)
+
+
+
 # Cloud Storage: Start-CLI/SDK
 ## Verify access in GCP shell
 
