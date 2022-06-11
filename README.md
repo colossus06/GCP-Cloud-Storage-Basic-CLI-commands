@@ -1,5 +1,5 @@
 
-# Cloud Storage: Qwik Start-CLI/SDK
+# Cloud Storage: Start-CLI/SDK
 ## Verify access in GCP shell
 
 `gsutil ls gs://[YOUR_BUCKET_NAME]`
